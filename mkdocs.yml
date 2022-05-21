@@ -1,0 +1,7 @@
+site_name: site feliz
+site_author:  Emine Aissa
+
+theme:
+  name: material
+  palette:
+    primary: purple
